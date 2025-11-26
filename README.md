@@ -10,6 +10,7 @@ This project analyzes 12 months of Divvy bike-share data to understand the behav
 How do annual members and casual riders use Cyclistic bikes differently?
 Cyclistic aims to increase long-term revenue by converting more casual riders into annual members. Understanding usage patterns is key to designing effective marketing strategies.
 
+2. Repository Contents
 cyclistic-bike-share-case-study/
 │
 ├── cyclistic_case_study.ipynb       # Kaggle notebook (analysis + visuals)
